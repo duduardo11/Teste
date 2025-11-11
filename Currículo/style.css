@@ -1,0 +1,60 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 30%;
+    margin-right: 5%;   
+    background-color: floralwhite;
+}
+header{
+    display: flex;
+    justify-content: space-between;
+    width: 60%;
+    height: 140px;
+    
+}
+
+img {
+    border-radius: 50%;
+    height: 125px;
+    width: 125px;
+}
+
+
+main{
+
+    width: 60%;
+}
+
+
+hr {
+    width: 100%;
+    margin-right: 60%;
+}
+
+.dados {
+    display: block;
+    
+}
+h1 {
+    margin-top: 25px;
+}
+
+.po {
+    margin-top: -15px;    
+}
+
+.pf {
+    margin-top: -10px;
+}
+
+.pu {
+    font-size: 14px;
+    margin-top: -10px;
+}
+
+.pep {
+    margin-top: -15px;
+}
+
+.pa {
+    margin-top: -15px;
+}
